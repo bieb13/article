@@ -7,12 +7,14 @@
 
 ✔️实现  
 <details><summary>准备（点击左边展开）</summary>  
+    
 1. 将自己的notion主页设置为share状态  
 
 2. 一个自己的域名，如果你还没有，并且想免费注册一个，[请点击👉](https://www.notion.so/6317a1b6e622478185a2cb9dff7aada7/)    
 </details>  
     
-### 开始配置CloudFlare账户（点击左边三角展开）：  
+### <details><summary>开始配置CloudFlare账户（点击左边展开）：</summary>  
+    
 1. 注册账户 [https://dash.cloudflare.com/sign-up](https://dash.cloudflare.com/sign-up)  
 2. 输入你的自定义域名  
 ![01.png](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd7561a5f-d8df-4303-97ba-3ff0bd913f8d%2FUntitled.png?table=block&id=4b688cb7-cf4a-4260-9f69-81dd1adbc90f&cache=v2)  
@@ -64,7 +66,7 @@
 
 19. 点击保存。**完成了！**
 20. 你现在可以访问你的域名了！
-
+</details>  
 
 >💻  
 >其实作为网站，最重要的还是内容，如果框架再美，没有实际的内容去填充，  

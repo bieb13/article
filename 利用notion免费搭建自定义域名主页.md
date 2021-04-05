@@ -54,13 +54,10 @@
     - 将你的notion主页链接填入Notion URL中
     - 代码自动生成，点击蓝色的COPY THE CODE。代码复制成功！
 16. 将代码填入第14步中的脚本框。点击保存并部署。
-17. 保存后单击页面顶部的站点名称，转到Worker界面添加路由
-
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/61292ae4-5c83-4e32-97ee-355ed0c8f64c/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/61292ae4-5c83-4e32-97ee-355ed0c8f64c/Untitled.png)
-
-18. 路由输入`yourdomain.com/*` ，worker选择你刚刚创建的那个
-
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d6554895-673e-4d9f-aad4-93547dd45957/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d6554895-673e-4d9f-aad4-93547dd45957/Untitled.png)
+17. 保存后单击页面顶部的站点名称，转到Worker界面添加路由  
+![17.png](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F61292ae4-5c83-4e32-97ee-355ed0c8f64c%2FUntitled.png?table=block&id=6564c38a-92fb-4980-a876-a4597d9abc70&cache=v2)  
+18. 路由输入`yourdomain.com/*` ，worker选择你刚刚创建的那个  
+![18.png](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd6554895-673e-4d9f-aad4-93547dd45957%2FUntitled.png?table=block&id=b3908509-43c6-4459-a37b-2a4254f40e55&cache=v2)  
 
 19. 点击保存。**完成了！**
 20. 你现在可以访问你的域名了！
@@ -76,4 +73,3 @@
 1.通常是主页share状态未开
 2.主页的标题修改，导致主页链接已经发生变化，所以访问域名会跳转到notion登录界面而不显示你想要展示的主页。
 
-[请点击](https://www.notion.so/6317a1b6e622478185a2cb9dff7aada7)

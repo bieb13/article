@@ -13,7 +13,7 @@
 2. 一个自己的域名，如果你还没有，并且想免费注册一个，[请点击👉](https://www.notion.so/6317a1b6e622478185a2cb9dff7aada7/)    
 </details>  
     
-### <details><summary>开始配置CloudFlare账户（点击左边展开）：</summary>  
+**<details><summary>开始配置CloudFlare账户（点击左边展开）：</summary>**  
     
 1. 注册账户 [https://dash.cloudflare.com/sign-up](https://dash.cloudflare.com/sign-up)  
 2. 输入你的自定义域名  
@@ -29,7 +29,7 @@
 8. 选择灵活的加密模式（这样访问你的网站就会拥有一把小锁了！） 
 ![08.png](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F2e9b3a65-60a5-4536-8370-aef0818cb955%2FUntitled.png?table=block&id=77d25d17-5335-4606-a9b7-a262f86a1354&cache=v2)
 
-9. 始终使用 HTTPS，自动 HTTPS 重写
+9. 始终使用 HTTPS，反正出现的推荐配置都打勾即可
 
     ![09.png](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F5a1027d6-e4bf-4a23-9fe4-e0a5cec61db1%2FUntitled.png?table=block&id=0830b8f9-a53b-4206-a6e8-5149868f6819&cache=v2)
 

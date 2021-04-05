@@ -6,9 +6,11 @@
 👉需求：在不会代码的前提下免费搭建一个自定义域名的主页
 
 ✔️实现  
-准备（点击左边三角展开）:  
-1. 将自己的notion主页设置为share状态  
-2. 一个自己的域名（如果你还没有，并且想免费注册一个，[请点击👉](https://www.notion.so/6317a1b6e622478185a2cb9dff7aada7)  
+<details><summary>准备
+1. 将自己的notion主页设置为share状态
+2. 一个自己的域名，如果你还没有，并且想免费注册一个，[请点击👉](https://www.notion.so/6317a1b6e622478185a2cb9dff7aada7)  
+</details>  
+    
 ### 开始配置CloudFlare账户（点击左边三角展开）：  
 1. 注册账户 [https://dash.cloudflare.com/sign-up](https://dash.cloudflare.com/sign-up)  
 2. 输入你的自定义域名  

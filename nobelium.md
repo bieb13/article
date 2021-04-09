@@ -26,6 +26,7 @@
   - 点击Deploy![](https://bieb13.github.io/post-images/1617788485474.png)
 - **成功部署！** vercel会出现撒花并且成功展示的页面哦！部署成功后返回，可以看到项目的ready状态![](https://bieb13.github.io/post-images/1617789312508.png)
 -  vercel支持绑定域名，点击这个项目的setting里的Domain，前去绑定域名即可。![](https://bieb13.github.io/post-images/1617789266209.png)
+-  如果想增加评论区，支持gitalk，[请点击这里扩展阅读](https://bieb13.com/gitalkinnob)
 -  后期更新文章，只需要去刚刚分享的notion页面里添加即可，属性里的published标签即是发布的意思。![](https://bieb13.github.io/post-images/1617788608330.png)
 ***
 展示一下我利用nobelium搭建的页面效果![](https://bieb13.github.io/post-images/1617789399729.png)  

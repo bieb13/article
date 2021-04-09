@@ -9,7 +9,7 @@
 - 创建一个公共github仓库,记住这个仓库名，我的是 `nob`
   ![](https://bieb13.github.io//post-images/1617941453567.png)
 - 创建一个GitHub Application，[请点击这里](https://github.com/settings/applications/new)，生成`client id`和`client secret`
-  ![](https://bieb13.github.io//post-images/1617942310399.png)
+  ![](https://bieb13.github.io//post-images/1617949445676.png)
   ![](https://bieb13.github.io//post-images/1617942344470.png)
   ![](https://bieb13.github.io//post-images/1617942583213.png)
 - 返回你的nobelium的仓库将`blog.config.js`补充好

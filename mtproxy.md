@@ -27,3 +27,4 @@ curl -s -o mtproxy.sh https://raw.githubusercontent.com/ellermister/mtproxy/mast
 ![02.png](https://besthope.ml/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F2f8eab90-464a-4f5e-991d-e8475d2131a8%2FUntitled.png?table=block&id=0666b26f-962c-45ed-ac52-2e514da08fa2&width=970&userId=&cache=v2)
 
 - 🥰
+*转载请附带原文链接 谢谢* https://bieb13.com/mtproxy

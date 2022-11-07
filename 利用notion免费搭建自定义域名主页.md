@@ -81,4 +81,4 @@
 >2.主页的标题修改，导致主页链接已经发生变化，所以访问域名会跳转到notion登录界面而不显示你想要展示的主页。  
 
 **转载请注明出处并附带此文链接，谢谢！**  
-<https://bieb13.com/notioncustomizepases>
+<https://bieb13.ml/notioncustomizepases>

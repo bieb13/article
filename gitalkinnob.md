@@ -23,4 +23,4 @@
 对了你的网页地址不要设置过长，不然也会出现bug.  
 
 现在咱也是博客有评论系统的人了~撒花💐🌺  
-*转载请附带原文链接，谢谢！*<https://bieb13.com/gitalkinnob>
+*转载请附带原文链接，谢谢！*<https://bieb13.ml/gitalkinnob>

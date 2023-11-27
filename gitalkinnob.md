@@ -1,4 +1,4 @@
-
+5
 # 超简单在Nobelium添加Gitalk评论系统
 
 ## 超简单！超简单！超简单！
@@ -35,7 +35,7 @@
 
 刷新你的主页，查看评论是否配置成功。有时会出现下图
 
-!https://i0.wp.com/raw.githubusercontent.com/bieb13/bieb13.github.io/master/post-images/1617943305806.png
+![https://i0.wp.com/raw.githubusercontent.com/bieb13/bieb13.github.io/master/post-images/1617943305806.png](https://i0.wp.com/raw.githubusercontent.com/bieb13/bieb13.github.io/master/post-images/1617943305806.png)
 
 我也不知道这是啥bug，我是登录了一下自己的GitHub后就变正常了。
 

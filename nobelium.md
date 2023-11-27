@@ -32,4 +32,4 @@
 展示一下我利用nobelium搭建的页面效果![](https://bieb13.github.io/post-images/1617789399729.png)  
 简洁，美观，且后期更新文章，只要在notion页面添加即可，其他的vercel会自动更新部署！超方便。
 
-*转载请附带原文链接，谢谢！* https://bieb13.ml/nobelium
+*转载请附带原文链接，谢谢！* https://bietalk.com/nobelium

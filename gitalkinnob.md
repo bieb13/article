@@ -1,4 +1,3 @@
-5
 # 超简单在Nobelium添加Gitalk评论系统
 
 ## 超简单！超简单！超简单！
@@ -7,27 +6,28 @@
 
 **补充`blog.config.js`文件里这些数据就可以了！**
 
-[!](https://i0.wp.com/raw.githubusercontent.com/bieb13/bieb13.github.io/master/post-images/1617937851381.jpg）
+![https://i0.wp.com/raw.githubusercontent.com/bieb13/bieb13.github.io/master/post-images/1617937851381.jpg](https://i0.wp.com/raw.githubusercontent.com/bieb13/bieb13.github.io/master/post-images/1617937851381.jpg)
 
-![https://i0.wp.com/raw.githubusercontent.com/bieb13/bieb13.github.io/master/post-images/1617943064786.png]
+![https://i0.wp.com/raw.githubusercontent.com/bieb13/bieb13.github.io/master/post-images/1617943064786.png](https://i0.wp.com/raw.githubusercontent.com/bieb13/bieb13.github.io/master/post-images/1617943064786.png)
 
 ### 上图的数据如何获得呢？
 
 - 创建一个公共github仓库,记住这个仓库名，我的是 `nob`
     
-    !https://i0.wp.com/raw.githubusercontent.com/bieb13/bieb13.github.io/master/post-images/1617941453567.png
+    ![https://i0.wp.com/raw.githubusercontent.com/bieb13/bieb13.github.io/master/post-images/1617941453567.png](https://i0.wp.com/raw.githubusercontent.com/bieb13/bieb13.github.io/master/post-images/1617941453567.png)
     
 - 创建一个GitHub Application，[请点击这里](https://github.com/settings/applications/new)，生成`client id`和`client secret`
     
-    !https://i0.wp.com/raw.githubusercontent.com/bieb13/bieb13.github.io/master/post-images/1617949445676.png
+    ![https://i0.wp.com/raw.githubusercontent.com/bieb13/bieb13.github.io/master/post-images/1617949445676.png](https://i0.wp.com/raw.githubusercontent.com/bieb13/bieb13.github.io/master/post-images/1617949445676.png)
     
-    !https://i0.wp.com/raw.githubusercontent.com/bieb13/bieb13.github.io/master/post-images/1617942344470.png
+    ![https://i0.wp.com/raw.githubusercontent.com/bieb13/bieb13.github.io/master/post-images/1617942344470.png](https://i0.wp.com/raw.githubusercontent.com/bieb13/bieb13.github.io/master/post-images/1617942344470.png)
     
-    !https://i0.wp.com/raw.githubusercontent.com/bieb13/bieb13.github.io/master/post-images/1617942583213.png
+    ![https://i0.wp.com/raw.githubusercontent.com/bieb13/bieb13.github.io/master/post-images/1617942583213.png](https://i0.wp.com/raw.githubusercontent.com/bieb13/bieb13.github.io/master/post-images/1617942583213.png)
     
 - 返回你的nobelium的仓库将`blog.config.js`补充好
-一定记得`repo`那里不要多写，不要傻乎乎把整个仓库地址都填
-![https://i0.wp.com/raw.githubusercontent.com/bieb13/bieb13.github.io/master/post-images/1617943064786.png]
+一定记得`repo`那里不要多写，不要傻乎乎把整个仓库地址都填进去
+    
+    ![https://i0.wp.com/raw.githubusercontent.com/bieb13/bieb13.github.io/master/post-images/1617943064786.png](https://i0.wp.com/raw.githubusercontent.com/bieb13/bieb13.github.io/master/post-images/1617943064786.png)
     
 
 ### 配置完毕

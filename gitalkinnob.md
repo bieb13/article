@@ -7,7 +7,7 @@
 
 **补充`blog.config.js`文件里这些数据就可以了！**
 
-    ![https://i0.wp.com/raw.githubusercontent.com/bieb13/bieb13.github.io/master/post-images/1617937851381.jpg]
+    ![]（https://i0.wp.com/raw.githubusercontent.com/bieb13/bieb13.github.io/master/post-images/1617937851381.jpg）
 
 ![https://i0.wp.com/raw.githubusercontent.com/bieb13/bieb13.github.io/master/post-images/1617943064786.png]
 

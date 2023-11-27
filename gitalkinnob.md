@@ -28,7 +28,7 @@
 - 返回你的nobelium的仓库将`blog.config.js`补充好
 一定记得`repo`那里不要多写，不要傻乎乎把整个仓库地址都填进去
     
-    !https://i0.wp.com/raw.githubusercontent.com/bieb13/bieb13.github.io/master/post-images/1617943064786.png
+    ![https://i0.wp.com/raw.githubusercontent.com/bieb13/bieb13.github.io/master/post-images/1617943064786.png]
     
 
 ### 配置完毕

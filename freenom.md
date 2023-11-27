@@ -17,7 +17,7 @@ Freenom提供免费域名注册，域名后缀一般为.ga或者.ml，适合刚�
 <details>
    <summary>开始: </summary>
 
-1.打开freenom主页<https://bieb13.com/notioncustomizepases>  
+1.打开freenom主页<https://bietalk.com/notioncustomizepases>  
 2. 输入一个你想要的域名前缀，检查可用性。看到Free标签的都是免费可用的点击Get it now！
         ![1](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd2cec5f5-9e70-4469-9ba1-508569e9f3c5%2FUntitled.png?table=block&id=688571a3-9ba1-45c4-bc0d-8b9e506065eb&cache=v2)
  3. 点击Checkout进入购物车
